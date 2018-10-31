@@ -1,3 +1,7 @@
+#### Name: [Hidayet Kurnaz](https://github.com/hidayetkurnaz)
+- Place: Ankara, Turkey
+- Bio: Free Software Advocate
+- GitHub: [hidayetkurnaz](https://github.com/hidayetkurnaz)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
